@@ -10,7 +10,7 @@ Hi there! This repository is dedicated to storing and organizing all the homewor
 
 ## Introduction
 
-In this repository, you will find all the homework assignments for Module 2 of the Data Science career. Each assignment is organized into separate folders, making it easy to navigate and access specific tasks. By maintaining a centralized location for all homework submissions, this repository ensures that your work is easily accessible and manageable.
+In this repository, you will find all the homework assignments for Module 2 of my Data Science career. Each homework is organized into separate folders, making it easy to navigate and access to a specific task.
 
 
 ## Topics
