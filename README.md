@@ -28,7 +28,7 @@ Here are the main topics related to this module 2:
 If you want to copy locally this repository, you can clone it with this command:
 
 ```
-git clone https://github.com/your-username/module2-data-science-homework.git
+git clone https://github.com/uriellmendezz/DataScience_02.git
 ```
 
 Obviously, make sure you have Git installed on your computer before running the command.
